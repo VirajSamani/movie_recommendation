@@ -1,2 +1,4 @@
 /movie_recommender_ui
 .ipynb_checkpoints
+movie.pkl
+similarity.pkl
